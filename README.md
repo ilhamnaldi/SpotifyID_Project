@@ -1,7 +1,7 @@
 # 🎶 Spotify ID Project
 🎶What Behind Top Spotify Songs In Indonesia?
 
-Hallo masyarakat LinkedIn sekalian!
+Hallo semua!
 Kalau kalian mau rilis lagu dan jadi Top 50 Spotify atau pengen iseng aja cari tau karakteristik lagu Top 50 Spotify region Indonesia tuh gimana, monggo bisa disimak, ya!
 
 Project ini merupakan bagian dari Final Project saya di dibimbing.id, dan harapannya karena data ini terus diperbaharui, sehingga dapat menjadi project "bangun tumbuh" bagi saya.
@@ -17,9 +17,13 @@ Tentu saja, saya memilih target popularity untuk menjawab pertanyaan saya di awa
 Saya jalankan dengan model XG-Boost karena technically lebih "bagus" dibanding Linear Regression atau SVR dilihat dari MAE (Mean Absolute Error), MSE (Mean Squared Error), dan R².
 
 Hasil yang saya dapatkan menunjukan bahwa Top 50 Spotify Songs di Indonesia itu punya karakteristik yang kuat pada acousticness dan valence-nya. Sederhananya lagu-lagu yang kuat dengan instrumen alat musiknya dan bernuansa positif. Supaya mudah bayangin lagu yang seperti apa, contohnya adalah:
+
 1️⃣ TULUS - Interaksi
+
 2️⃣ Sal Priadi - Gala Bunga Matahari
+
 3️⃣ Yung Kai - Blue
+
 4️⃣ MALIQ & D'Essentials - Aduh
 
 Nah, sekarang udah kejawab karakteristiknya apa aja, saya buatkan juga playlist dari kedua fitur tadi di Spotify. Semoga informasi ini bermanfaat!
